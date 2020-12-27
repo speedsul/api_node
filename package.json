@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/speedsul/api_node/issues"
   },
-  "homepage": "https://github.com/speedsul/api_node#readme"
+  "homepage": "https://github.com/speedsul/api_node#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
